@@ -16,7 +16,7 @@ We've implemented various awesome features in Shadow Cheats 2.0, including but n
 
 - [x] The vast majority of functions commonly seen in some of the top tier free cheats.
 - [x] Various checks to ensure stability and proper initialization while injecting.
-- [x] Bypasses to counter-act roblox bans unlike our competitors, you are less likely to get banned.
+- [x] Bypasses to counter-act roblox checks unlike our competitors, you are less likely to get banned.
 - [x] Teleport handling to ensure users don't crash while executing code after teleportation.
 
 And many more great features coming soon, just check out Shadow Cheats and you won't be disappointed. It's worth it!
